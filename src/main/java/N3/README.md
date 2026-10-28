@@ -21,3 +21,7 @@ Aquest nivell et servirà per entendre com crear i utilitzar records, afegir lò
 - **IDE**: IntelliJ IDEA
 
 ## Excecution
+- creo un Record Person y lo instancio en el Main
+- le he metido un metodo en el record yearsLeftToFifthy()
+- he creado una clase Utils para meterle el metodo para filtrar por mayores de edad
+- un record es immutable pero mucho mas facil de escribir, no tiene setters pero si tiene getters
