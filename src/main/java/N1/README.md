@@ -23,4 +23,15 @@ En aquest nivell treballarem la creació d’enums, l’ús en condicions i clas
 
 ### Ejercicio 1
 - Creo el enum Day con los dias de la semana
-- 
+- He creado una clase DayUtils con un metodo y un switch que separe weekdays de weekend
+
+### Ejercicio 2
+- creo el enum con LOW, MEDIUM, HIGH
+- tambièn he creado la clase task con el atributo Level
+- creo una clase TaskUtils para darle un sentido al task level
+
+### Ejercicio 3
+- creo el enum con getColor()
+
+### Ejercicio 4
+- copio el enum con getColor()
